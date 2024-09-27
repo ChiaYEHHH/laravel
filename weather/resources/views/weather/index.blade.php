@@ -75,7 +75,7 @@
                                     <td>${time0.startTime}</td>
                                     <td>${time0.endTime}</td>
                                     <td>${time0.parameter.parameterName}</td>
-                                    <td><img src="../day/${time0.parameter.parameterValue}.svg" alt=""></td>
+                                    <td><img src="./day/${time0.parameter.parameterValue}.svg" alt=""></td>
                                     
                                 </tr>`;
 
